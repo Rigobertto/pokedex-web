@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex Web
 
 Uma aplicação web que consome a API https://pokeapi.co/ e exibe Gif, ID e Name do Pokemon pesquisado.
 
