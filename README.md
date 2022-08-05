@@ -1,3 +1,5 @@
-# pokedex
+# Pokedex
 
-![image](https://user-images.githubusercontent.com/54067766/183112509-93990a6e-710d-4c9b-b457-961b63d72814.png)
+Uma aplicação web que consome a API https://pokeapi.co/ e exibe Gif, ID e Name do Pokemon pesquisado.
+
+![image](https://user-images.githubusercontent.com/54067766/183113033-c7fd8373-e114-4032-9908-090a260b3154.png)
